@@ -3,9 +3,10 @@
 
 2.python 解析图片里面的内容
 
-3.基于git和markdown的blog，(golang 或者js)
+3.基于git和markdown的blog，(golang 或者js)import other blog
 
 4.TensorFlow的代码分析
+
 
 
 
