@@ -20,3 +20,14 @@ Any application that than can be written in JavaScript will eventually be writte
 
 Minimalism is not a lack of something. It’s simply the perfect amount of something. - Nicholas Burroughs
 
+
+
+7个方法，逼自己优秀起来。
+1.每天读书
+2.学一门新语言，给自己新的集会
+3.离开舒适地带，太舒适只会让你停滞不前
+4.克服害怕心理，恐惧让人无法进步
+5.用30天挑战一个目标，去完成一个对自己有益的目标
+6.每天坚持跑步
+7.写一本人生手册：你的价值和目标，它会推动你的进步
+
