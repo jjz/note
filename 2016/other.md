@@ -52,3 +52,6 @@ Readdle的核心原则：第一眼看上去要轻量化，易用，但是足够�
 钱如果不能用来投资自己，那么无论怎样的节省都是一种惊人的浪费。
 如果把时间视为一种货币，那么，把时间花在通勤上毫无疑问是一种贬值。
 
+
+We can't solve problems by using the same kind of thinking we used when we created them-爱因斯坦
+
