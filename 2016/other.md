@@ -56,3 +56,7 @@ Readdle的核心原则：第一眼看上去要轻量化，易用，但是足够�
 We can't solve problems by using the same kind of thinking we used when we created them-爱因斯坦
 就是自己用的工具才必须做的好看和好用，程序员就应该对自己好一点。
 
+不，你不能放弃，你必须上台演讲，尽力去做，就算是装出来的也没关系，继续伪装，知道有一天你发现你真的可以做到为止。
+我们与焦虑打交道的时间越多，就越能学会如何与它和平共处，化敌为友。
+
+
