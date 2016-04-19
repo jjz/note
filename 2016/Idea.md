@@ -20,7 +20,3 @@
 
 
 
-
-12.Called method Integer.intValue()
-Should call Integer.parseInt(String) instead 有什么不同
-
