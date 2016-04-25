@@ -61,5 +61,6 @@ We can't solve problems by using the same kind of thinking we used when we creat
 
 
 趋势是最终的力量，如果最终是涨的，那么我今天无论如何怎样买进都是对的，如果最终是废纸，那么我今天无论怎么买进都是错的，关键是对趋势的选择-欧神
+长多必然短多。
 
 
