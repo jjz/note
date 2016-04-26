@@ -64,3 +64,5 @@ We can't solve problems by using the same kind of thinking we used when we creat
 长多必然短多。
 
 
+《如何成为一个领域的专家》https://mp.weixin.qq.com/s?__biz=MjM5ODg2MzMxMg==&mid=2653397925&idx=1&sn=0efc6c398388cc8023b0cfef2b48537e&scene=0&uin=MzIyNjE2MDU%3D&key=b28b03434249256bff5b41a59daf7c9ac1a409725e2a4ae265eb5c1635d9805caed307c0d36e048a25fa18a2f6afca0b&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.11.4+build(15E65)&version=11020201&lang=en&pass_ticket=duPyOhQIXRofAWoLpxjZx0i8ZYTKEfAu5VsOKh93pIc%3D
+
