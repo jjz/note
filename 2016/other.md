@@ -13,7 +13,6 @@ Be the change that you want to see in the world ,我认为世界应该是这个�
 努力到无能为力，拼搏到感动自己
 
 
-
 if i could go back in time and tell the younger me exactly one and one thing , it would be “learn unix”- jeff atwood
 
 Any application that than can be written in JavaScript will eventually be written in JavaScript-Jeff Atwood Atwood定律
