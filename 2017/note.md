@@ -227,4 +227,30 @@ I can accept failure but i can't accept not trying
 2. 为自己选择有效的时间管理方法：最牛逼的人，就是说工作的时候就工作，说睡觉的时候就睡觉，说看书就看书，说玩耍的时候就玩耍
 3. 为自己建立合适的目标：离开了目标，就会少掉那份为了目标而坚持的奋斗
 4. 一定要做到学以致用：学以致用才是最好的学习，才是勤奋最便捷的方式。将你的输入与输出关联，在输出中去践行和验证自己习得的认知。时间是公平的资源，但是在每个人的手上，时间又成了最不公平的资源。
-
+扎克伯格的时间管理:
+1. There's always time,Time is priorities.
+2. Only plan for 4-5 hours of real work per day
+3. It's normal to have days where you just can't work and days where you'll work 12 hours straight. Work more when you're in the zone,Relax when you're not.
+4. Stop multi-tasking , it merely kills your focus。不要多任务，这只会消耗注意力；保持专注，一心一用
+5. Your time is $1000/hour,and you need to cat accordingly. Respect your time and make it respected.
+6. Set up a work routine and stick to it. Your body will adapt.养成工作习惯，并持之以恒，你的身体会适应的。
+7. We're always more focused and productive with limited time.
+8. Work is the best way to get working.Start with short tasks to get the ball rolling.
+9. Doing is better than prefect. Work iteratively,Expectations to do things perfectly are stifling.迭代工作，期待完美收工会令人窒息：“做完事情，要剩余完美收工”。动手做，胜过任何完美的想象。
+10. More work hours doesn't mean more productivity,Use constraints as opportunities.工作时间越长，并不等于效率越高
+11. Separate thinking and execution to execute faster and think better. Separate brainless and strategic tasks to become more productive. 按重要性工作，提高效率
+12. Organize meetings early during the day. Time leading up to an event is often wasted.
+13. A single meeting can blow a whole afternoon , by breaking it into two pieces each too small to do anything hard in. Group meetings and communication(eamil or phone)to create blocks of uninterrupted work.把会议和沟通（邮件或电话）结合，创造不间断工作时间：一个小会，也会毁了一个下午，因为它把下午撕成两个较小的时间段，以至于啥也干不成。PS：当看到一个程序员冥思苦想时，不要过去打扰，甚至一句问候都是多余的。
+14. Keep the same context throughout the day . Switching between projects/clients is unproductive. 一整天保持相同的工作环境。在项目/客户之间切换，会效率低。
+15. Work around procrastination. Procrastinate between intense sprints of work (Pomodoro)
+16. Break the unreasonable down into little reasonable chunks. A big goal is only achieved when every little thing that you do everyday,gets you closer to that goal. 把不切实际的任务分割成合理的小任务，只要每天都完成小任务，你就会越来越接近那个大目标了。
+17. No 2 tasks ever hold the same importance. Always prioritize. Be really careful with to-do lists 从来没有两个任务会有相同的优先级，总会有个更重要，仔细考虑待办事情列表。
+18. Only ever work on the thing that will have the biggest impact.-Always know the one thing you really need to get done during the day.必须清除白天必须完成的那件事，是什么。只去做那件有着最大影响的事情。
+19. Break tasks into hour increments.Long tasks are hard to get into ;feels like it all needs to get done.把任务按时间分段，就能感觉它块被搞定了
+20. If something can be done 80% as well by someone else,delegate! Delegate and learn to make use of other people.授权并擅用他人的力量。-君子善假于物（人）也，如果某件事其他人也可以做到八成，那就给他做！
+21. Yesterday's home runs don't win today's games . Turn the page on yesterday.Only ever think about today and tomorrow.把昨天翻过去，只考虑今天和明天。昨天的全垒打赢不了今天的比赛。
+22. Set deadlines for everything. Don't let tasks go on indefinitely.给所有事情都设定一个期限。不要让工作无限期地进行下去。
+23. Set and dates for intense or stressful activities. Everything ends at some point. 针对时间紧或有压力的任务，设置结束时间，万事皆可终结。
+24. Get a reminder app for everything . Do not trust your own brain for your memory ,Always take notes. 多记，多做笔记。
+25. Write down anything that distracts you -google searches, random thoughts,new ideas. whatever. The point is,if you write them down, they'll stop bubbling up when you're in the zone -进入高效状态后，记下任何分散你注意力的东西比如Google搜索词，灵光乍现的想法、新点子等等，如果你把他们记下来，它就不会再蹦来蹦去了。
+26. Take breaks . Sometimes. 有时候，休息一下。
