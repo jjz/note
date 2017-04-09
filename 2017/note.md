@@ -260,6 +260,7 @@ I can accept failure but i can't accept not trying
 
 
 ***
+[创业，从外打破是压力，从内打破是成长] (https://mp.weixin.qq.com/s?__biz=MzA3ODk5OTEzOA==&mid=2962114473&idx=1&sn=0faac6b9e224749ed2683e14f0f572da&chksm=aac0dca49db755b204cd84ec04d1f9e758e0fdc3f878265e8f5e3562aa8b9645f58b9c60ef59&mpshare=1&scene=23&srcid=0407xJpHtpZvzbrHrcfKvPDM%23rd)
 创业初期，你的市场路径一定不能是“我是独一无二的”
 你应该把自己的创业思路当做是对竞争对手的模仿
 “落后者”也有落后的优势，你将有机会观察对手争取用户的方法并从中西区经验，实现自身产品的最优化。
@@ -282,3 +283,10 @@ There ar no original ideas. But there ar origianl executions- Luke Wroblewski
 * 品牌塑造就是巩固用户
 
 ***
+***
+[为什么我不赞成在代码中写注释：谈写注释的几种境界](https://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653548512&idx=1&sn=801eed1269697852cb01971d660abd3f&chksm=813a7e78b64df76e15eb3e871411813ebc9fcf2ac637a779e18b7ee7c41f2faa7a4124679e7e&scene=0&key=a7c9ea3f0ac16c8bb9f5f8600e8c1b22e01fd7cbaedb6e471226162fc3afd865a02074f80bf90f1dd1ccebc16e3174a5fa02c2b65eccc501879eb874bdc4ecfcfce35a8d7ac61e6d83a9dd34034f2c1c&ascene=0&uin=MzIyNjE2MDU%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.4+build(16E195)&version=12020110&nettype=WIFI&fontScale=100&pass_ticket=kPin0iX00R%2Bc2QyfxQevaMq4bVg2Sa56vshsDdxBEz0%3D)
+当我阅读我编写代码时，应该完全清楚它的作用，名称、结构、代码背后的意图-都需要尽可能的清晰和明显。
+希望写注释，经常表示代码有更好的改进空间。在某些方面，这实际上是一种警告标志。
+如果您可以选择代码的清晰度，而不是使用一个澄清的注释对其进行修改，那么请先优化代码。
+***
+
