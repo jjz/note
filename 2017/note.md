@@ -254,3 +254,31 @@ I can accept failure but i can't accept not trying
 24. Get a reminder app for everything . Do not trust your own brain for your memory ,Always take notes. 多记，多做笔记。
 25. Write down anything that distracts you -google searches, random thoughts,new ideas. whatever. The point is,if you write them down, they'll stop bubbling up when you're in the zone -进入高效状态后，记下任何分散你注意力的东西比如Google搜索词，灵光乍现的想法、新点子等等，如果你把他们记下来，它就不会再蹦来蹦去了。
 26. Take breaks . Sometimes. 有时候，休息一下。
+
+这里是北京城，它可能折腾你的理想，但始终尊重你的才华
+
+
+
+***
+创业初期，你的市场路径一定不能是“我是独一无二的”
+你应该把自己的创业思路当做是对竞争对手的模仿
+“落后者”也有落后的优势，你将有机会观察对手争取用户的方法并从中西区经验，实现自身产品的最优化。
+创业的关键在于生存和成长，创业的真理在于：如果你没有用户，再新奇也无济于事。
+There ar no original ideas. But there ar origianl executions- Luke Wroblewski
+
+新奇是没有所有权的。没有哪个产品是独一无二的。因此驱动业务的唯一动因是拓宽市场。市场变大对你和你的竞争对手都有利。某种意义上，你们都是同一条船行的人，而你应该庆幸自己获得了这张船票。你的奋斗目标该是这些公司齐心协力增加市场需求，和他们相互了解，良性竞争。长远而言，你们是朋友，而不是敌人。
+
+不要把竞争看做是一场速度比赛。这其实是一场持久战，关键在于保持稳定成长。
+牛逼的创业者并不在意竞争，他们看重的是用户。他们会往前看，而不是往旁边看。
+与不惜一切代价追求增长相比，维系老用户更为重要。
+创业公司不会因为竞争对手出其不意的打击而一夜暴毙，但是却会因为对市场迟钝而慢慢死掉。
+明确自己要做什么，但不急于马上开始。不要把自己逼死在创业这场厮杀里，要保持平和的心态。
+关注品牌就是加强用户留存。
+所有企业都对自己的品牌具有内在的垄断性-《从0到1》
+
+* 根据企业所处阶段判断所面临的紧迫问题
+* 你的公司并非独一无二，永远不要有这种错觉
+* 维持用户的留存是王道
+* 品牌塑造就是巩固用户
+
+***
