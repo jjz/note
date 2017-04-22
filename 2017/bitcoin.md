@@ -1,5 +1,5 @@
 # ASICBoost
-[ASICBoot事件详细经过](http://8btc.com/forum.php?mod=viewthread&tid=50740&highlight=ASICBoost)
+[ASICBoost事件详细经过](http://8btc.com/forum.php?mod=viewthread&tid=50740&highlight=ASICBoost)
 [G Maxwell的邮件](https://www.mail-archive.com/bitcoin-dev@lists.linuxfoundation.org/msg05055.html)
 [ASICBoot网站](https://www.asicboost.com/)
 
