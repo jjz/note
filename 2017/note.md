@@ -366,3 +366,5 @@ There ar no original ideas. But there ar origianl executions- Luke Wroblewski
 5. 软件架构上要松耦合，团队组织上要紧耦合
 
 6. 工程师文化是关键，重视过程就是重视结果。只重视结果的KPI等同于“渴泽而鱼”和“饮鸩止渴”
+
+这个世界从来就没有不承受重力的飞翔

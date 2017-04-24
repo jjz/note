@@ -1,8 +1,8 @@
 # ASICBoost
 [ASICBoost事件详细经过](http://8btc.com/forum.php?mod=viewthread&tid=50740&highlight=ASICBoost)
 [G Maxwell的邮件](https://www.mail-archive.com/bitcoin-dev@lists.linuxfoundation.org/msg05055.html)
-[ASICBoot网站](https://www.asicboost.com/)
-
+[ASICBoost网站](https://www.asicboost.com/)
+[ASICBoost白皮书](http://www.math.rwth-aachen.de/~Timo.Hanke/AsicBoostWhitepaperrev5.pdf)
 # pool
 [挖矿协议](https://slushpool.com/help/manual/stratum-protocol)
 
