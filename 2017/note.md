@@ -412,4 +412,6 @@ There ar no original ideas. But there ar origianl executions- Luke Wroblewski
 3. 回答问题并发散
 
 这个世界绝不会辜负那些认真读书，踏实行动的人。
+一个心智成熟的人，首先会考虑自己的行为给他人带来的影响，只懂得站在自己角度为已谋利的人，永远长不了大出息。
+只有成为一个有温度并具有思想和专业性的人，你才有价值,你的商品才能更好的被出售。
 
