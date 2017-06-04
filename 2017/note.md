@@ -467,4 +467,5 @@ There ar no original ideas. But there ar origianl executions- Luke Wroblewski
 养成一个习惯其实只要28天，如果你天天去做，一天都不落下，28天足以还你一个奇迹
 记住，完成一项再开始第二项。千万不要同事开展两项任务。给自己28天的时间，你会亲眼见证时间的威力。
 做那些看起来有点难度，但是踮踮脚就能够得着的事；做哪些目标并不遥远，让你有盼头的事；做那些没完成一步，你就可以得到小甜头的事。总之，只有享受过程，你才能坚持。行动起来，给自己28天的时间，聚焦在一件事上，将奖励和目标达成挂钩，你会亲眼见证改变的力量。
-
+Dream with your eyes open until you know exactly what it looks like 
+不思考就是职场最大的忌讳，不思考的对话特别容易显得蠢
